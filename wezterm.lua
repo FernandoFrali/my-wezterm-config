@@ -12,7 +12,7 @@ config = {
     background = {
         {
             source = {
-                File = "/Users/fernandofrali/Pictures/wallpapers/bg-wezterm.jpg",
+                File = "/Users/fernandofrali/Downloads/Images/bg-wezterm.jpg",
             },
             hsb = {
                 hue = 1.0,
@@ -28,7 +28,7 @@ config = {
             },
             width = "100%",
             height = "100%",
-            opacity = 0.5,
+            opacity = 0.1,
         },
     },
     window_padding = {
