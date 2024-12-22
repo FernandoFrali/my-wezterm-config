@@ -2,6 +2,8 @@ local wezterm = require("wezterm")
 local theme = wezterm.plugin.require('https://github.com/neapsix/wezterm').main
 
 config = {
+    initial_cols = 120,
+    initial_rows = 40,
     colors = theme.colors(),
     window_frame = theme.window_frame(),
     automatically_reload_config = true,
